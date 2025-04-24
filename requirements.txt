@@ -1,0 +1,5 @@
+requests>=2.25.0
+# Optional dependencies
+# Flask>=2.0.0
+# fastapi>=0.68.0
+# starlette>=0.14.2 
